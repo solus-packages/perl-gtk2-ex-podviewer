@@ -10,7 +10,7 @@
         <Summary xml:lang="en">A Gtk2 widget for displaying Plain old Documentation (POD)</Summary>
         <Description xml:lang="en">A Gtk2 widget for displaying Plain old Documentation (POD).  
 </Description>
-        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://getsol.us/sources/README.Solus</Archive>
     </Source>
     <Package>
         <Name>perl-gtk2-ex-podviewer</Name>
@@ -20,17 +20,17 @@
         <PartOf>programming.perl</PartOf>
         <Files>
             <Path fileType="executable">/usr/bin/podviewer</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/Gtk2/Ex/PodViewer.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/Gtk2/Ex/PodViewer/Parser.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/x86_64-linux-thread-multi/auto/Gtk2/Ex/PodViewer/.packlist</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.30/Gtk2/Ex/PodViewer.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.30/Gtk2/Ex/PodViewer/Parser.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.30/x86_64-linux-thread-multi/auto/Gtk2/Ex/PodViewer/.packlist</Path>
             <Path fileType="man">/usr/share/man/man1/podviewer.1</Path>
             <Path fileType="man">/usr/share/man/man3/Gtk2::Ex::PodViewer.3</Path>
             <Path fileType="man">/usr/share/man/man3/Gtk2::Ex::PodViewer::Parser.3</Path>
         </Files>
     </Package>
     <History>
-        <Update release="2">
-            <Date>2018-11-21</Date>
+        <Update release="3">
+            <Date>2019-06-15</Date>
             <Version>0.18</Version>
             <Comment>Packaging update</Comment>
             <Name>Pierre-Yves</Name>
