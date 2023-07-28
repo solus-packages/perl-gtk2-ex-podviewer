@@ -1,6 +1,6 @@
 name       : perl-gtk2-ex-podviewer
 version    : 0.18
-release    : 5
+release    : 6
 source     :
     - http://search.cpan.org/CPAN/authors/id/G/GB/GBROWN/Gtk2-Ex-PodViewer-0.18.tar.gz : 0bb895cd6f8d0a072f466972dff38743248c68df1dec9398bd944f002dbeeb60
 license    : Artistic-1.0-Perl

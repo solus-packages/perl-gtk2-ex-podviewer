@@ -20,17 +20,17 @@
         <PartOf>programming.perl</PartOf>
         <Files>
             <Path fileType="executable">/usr/bin/podviewer</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.36/Gtk2/Ex/PodViewer.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.36/Gtk2/Ex/PodViewer/Parser.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.36/x86_64-linux-thread-multi/auto/Gtk2/Ex/PodViewer/.packlist</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.38/Gtk2/Ex/PodViewer.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.38/Gtk2/Ex/PodViewer/Parser.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.38/x86_64-linux-thread-multi/auto/Gtk2/Ex/PodViewer/.packlist</Path>
             <Path fileType="man">/usr/share/man/man1/podviewer.1</Path>
             <Path fileType="man">/usr/share/man/man3/Gtk2::Ex::PodViewer.3</Path>
             <Path fileType="man">/usr/share/man/man3/Gtk2::Ex::PodViewer::Parser.3</Path>
         </Files>
     </Package>
     <History>
-        <Update release="5">
-            <Date>2022-09-26</Date>
+        <Update release="6">
+            <Date>2023-07-28</Date>
             <Version>0.18</Version>
             <Comment>Packaging update</Comment>
             <Name>Algent Albrahimi</Name>
